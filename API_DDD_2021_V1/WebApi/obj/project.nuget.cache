@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFKn+PyHQ004BH7cw749j1p95b6qC5uZA9Yq3f1ITLe7HqqDoNEiIDp9Ed5F/tdNdL+fS8J7sp2ASqHMeQ2YYw==",
+  "dgSpecHash": "d9klW/6+j98Gza84WRaBZ1aWcWCBl+hMqR21ZJto/SJwAzKXhVb4Cb+lrhbtlaSgXE2CoNjWeMRcSh4f51q23w==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edmilson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Edmilson\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

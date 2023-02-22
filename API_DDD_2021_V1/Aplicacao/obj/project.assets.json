@@ -6326,11 +6326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Aplicacao\\Aplicacao.csproj",
+      "projectUniqueName": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Aplicacao\\Aplicacao.csproj",
       "projectName": "Aplicacao",
-      "projectPath": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Aplicacao\\Aplicacao.csproj",
+      "projectPath": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Aplicacao\\Aplicacao.csproj",
       "packagesPath": "C:\\Users\\Edmilson\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Aplicacao\\obj\\",
+      "outputPath": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edmilson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6347,11 +6347,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Dominio\\Dominio.csproj"
+            "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Dominio\\Dominio.csproj"
             },
-            "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Entidades\\Entidades.csproj"
+            "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Entidades\\Entidades.csproj"
             }
           }
         }
@@ -6381,7 +6381,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

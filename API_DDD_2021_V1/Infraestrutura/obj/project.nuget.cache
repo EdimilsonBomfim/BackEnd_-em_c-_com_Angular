@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDaosw7/3nSWfwIAAvOK5DwUY6sR7OpQaxpBS0Phf9rQ0TgxpJSOG4QFiimJKkF2IP3k0xRKX5yVk0B9QZTi7w==",
+  "dgSpecHash": "8kWT4ux6xoGtfTN2I/Yva/MdtYaUjagmQZHyH8ThmXCIPjH9ePdiMrvLcf/MaoNJajNLzYVJXvHy1Iy/QEBUeA==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\SIS\\VS_2022\\BAKEND_DDD_CQRS_TOKEN_ANGULAR\\API_DDD_2021_V1\\Infraestrutura\\Infraestrutura.csproj",
+  "projectFilePath": "C:\\DEV\\SIS\\VS_2022\\G_BACKEND_API_NOTICIAS_VS2022\\API_DDD_2021_V1\\Infraestrutura\\Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edmilson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Edmilson\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
